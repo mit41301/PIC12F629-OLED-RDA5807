@@ -1,4 +1,4 @@
-https://radiokot.ru/circuit/analog/receiv_transmit/41/
+![SCH](Images/01.png)
 
 https://www.microchip.com/en-us/product/PIC12F675
 
