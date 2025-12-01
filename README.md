@@ -1,3 +1,5 @@
+## Tested the code with both PIC12F629 and PIC12F675 and working fine.
+
 ![SCH](Images/01.png)
 
 https://www.microchip.com/en-us/product/PIC12F675
