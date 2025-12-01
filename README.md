@@ -1,4 +1,4 @@
-## Tested the code with both PIC12F629 and PIC12F675 and working fine.
+## Tested the code with both PIC12F629 and PIC12F675 and working fine. Works with RDA5807M, RDA5807FP, RDA5807MS or RDA5807MP
 
 ![SCH](Images/01.png)
 
